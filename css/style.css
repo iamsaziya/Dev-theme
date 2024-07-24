@@ -5471,7 +5471,6 @@ body.visible-sidebar{
   left: 0;
   bottom: -1px;
   width: 100%;
-  background: url(../images/background/banner-pattern.png) bottom center repeat-x;
   height: 39px;
   z-index: 1;
   background-repeat:repeat-x;
